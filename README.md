@@ -1,7 +1,3 @@
-# Hi, I'm Nikhil K! 👋
-
----
-
 ### 🚀 About Me:
 
 **BTech in Computer Engineering Student** | **Software Development, Web Technologies & Cybersecurity Enthusiast**
@@ -28,22 +24,6 @@
 ![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=api&logoColor=white)
 ---
 
-### ✨ Featured Projects
-
-* **[Project Name 1]**
-    * A brief, one-sentence description of this project and what problem it solves.
-    * **Technologies:** [List specific key technologies used, e.g., Python, Django, MySQL, HTML, CSS, JavaScript]
-    * [Link to Project Repository](https://github.com/nikhilsujesh/project-name-1)
-    * [Link to Live Demo (if applicable)](https://your-project-1-demo.com)
-
-* **[Project Name 2]**
-    * A brief, one-sentence description of this project and what it achieves.
-    * **Technologies:** [List key technologies used]
-    * [Link to Project Repository](https://github.com/nikhilsujesh/project-name-2)
-    * [Link to Live Demo (if applicable)](https://your-project-2-demo.com)
-
----
-
 ### 🎓 Education & Certifications
 
 * **Bachelor of Technology (BTech) in Computer Engineering** - College of Engineering, Thalassery (Aug 2023 - Apr 2026)
@@ -59,10 +39,6 @@
 **My GitHub Contribution Streak:**
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nikhilsujesh&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-**My Contribution Grid:**
-
-[![GitHub Contributions](https://github-contributions-grid-readme.vercel.app/api?username=nikhilsujesh&theme=dark)](https://github.com/nikhilsujesh?tab=overview&from=2024-01-01&to=2024-12-31)
 
 ---
 
