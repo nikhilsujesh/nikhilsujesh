@@ -1,14 +1,15 @@
-# Hi, I'm Shadiya Shirin V! 👋
+# Hi, I'm Nikhil K! 👋
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me:
 
-I'm a passionate Computer Science Engineering student at APJ Abdul Kalam Technological University, actively pursuing opportunities as a **Software Engineer** and **Back-End Developer**. Based in Kannur, India, I'm driven by a desire to build robust, efficient, and scalable solutions that address real-world challenges.
+**BTech in Computer Engineering Student** | **Software Development, Web Technologies & Cybersecurity Enthusiast**
 
-My journey in tech is fueled by curiosity and a commitment to continuous learning. I love diving deep into backend architectures and am also keen on exploring the fascinating domains of **Cybersecurity** and **Generative AI**, where I've already gained foundational knowledge through certifications.
-
-I thrive in collaborative environments and am always eager to contribute to impactful projects. My recent participation as a **finalist at TinkerHack 3.0**, Kerala's largest women's hackathon (March 2025), highlights my ability to deliver innovative solutions under pressure.
+* Currently pursuing Computer Engineering at College of Engineering, Thalassery.
+* Passionate about building impactful solutions across software development and web domains.
+* Actively exploring Cybersecurity concepts and applications.
+* Also serving as an Executive Committee Member at Innovus CoET.
 
 ---
 
@@ -18,49 +19,57 @@ I thrive in collaborative environments and am always eager to contribute to impa
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=api&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=api&logoColor=white)
+---
+
+### ✨ Featured Projects
+
+* **[Project Name 1]**
+    * A brief, one-sentence description of this project and what problem it solves.
+    * **Technologies:** [List specific key technologies used, e.g., Python, Django, MySQL, HTML, CSS, JavaScript]
+    * [Link to Project Repository](https://github.com/nikhilsujesh/project-name-1)
+    * [Link to Live Demo (if applicable)](https://your-project-1-demo.com)
+
+* **[Project Name 2]**
+    * A brief, one-sentence description of this project and what it achieves.
+    * **Technologies:** [List key technologies used]
+    * [Link to Project Repository](https://github.com/nikhilsujesh/project-name-2)
+    * [Link to Live Demo (if applicable)](https://your-project-2-demo.com)
 
 ---
 
 ### 🎓 Education & Certifications
 
-* **Computer Science Engineering** - APJ Abdul Kalam Technological University
-* **Foundations of Cybersecurity** - Google (Issued Feb 2024)
-    * [Show Credential](https://www.credly.com/badges/2Q5FX2ERJ24M)
-* **Introduction to Generative AI** - Google (Issued Feb 2024)
-    * [Show Credential](https://www.credly.com/badges/7942573)
-
----
+* **Bachelor of Technology (BTech) in Computer Engineering** - College of Engineering, Thalassery (Aug 2023 - Apr 2026)
+* **Computer Engineering, Computer Software Engineering** - Government Polytechnic College, Periya (2020 - 2023)
+* **Building a Face Recognition Application using Python** - HCL GUVI (2026)
+    * ---
 
 ### 📊 My GitHub Stats & Activity
 
-[![Shadiya Shirin V's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShadiyaShirin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/anurag-rajori/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadiyaShirin&layout=compact&theme=radical&hide_border=true)](https://github.com/anurag-rajori/github-readme-stats)
+[![Nikhil K's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilsujesh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/anurag-rajori/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsujesh&layout=compact&theme=radical&hide_border=true)](https://github.com/anurag-rajori/github-readme-stats)
 
 **My GitHub Contribution Streak:**
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ShadiyaShirin&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nikhilsujesh&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 **My Contribution Grid:**
 
-[![GitHub Contributions](https://github-contributions-grid-readme.vercel.app/api?username=ShadiyaShirin&theme=dark)](https://github.com/ShadiyaShirin?tab=overview&from=2024-01-01&to=2024-12-31)
+[![GitHub Contributions](https://github-contributions-grid-readme.vercel.app/api?username=nikhilsujesh&theme=dark)](https://github.com/nikhilsujesh?tab=overview&from=2024-01-01&to=2024-12-31)
 
 ---
 
 ### 🤝 Let's Connect!
 
-* **LinkedIn:** [Your LinkedIn Profile URL](https://www.linkedin.com/in/shadiya-shirin-v/)
-* **Email:** [Your Professional Email Address]
-* **Personal Website/Portfolio:** [Your Personal Website URL (if you have one, otherwise remove this line)]
+* **LinkedIn:** [https://www.linkedin.com/in/nikhil-k-208896210/](https://www.linkedin.com/in/nikhil-k-208896210/)
+* **Email:** [Nikhil's Professional Email Address]
+* **Personal Website/Portfolio:** [Nikhil's Personal Website URL (if he has one, otherwise remove this line)]
 
 ---
