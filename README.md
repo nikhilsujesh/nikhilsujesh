@@ -42,7 +42,6 @@
 ### 🤝 Let's Connect!
 
 * **LinkedIn:** [https://www.linkedin.com/in/nikhil-k-208896210/](https://www.linkedin.com/in/nikhil-k-208896210/)
-* **Email:** [nikhilsujesh21@gmail.com]
-* **Personal Website/Portfolio:** [Nikhil's Personal Website URL (if he has one, otherwise remove this line)]
+* **Email:** nikhilsujesh21@gmail.com
 
 ---
