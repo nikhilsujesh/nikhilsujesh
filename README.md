@@ -11,7 +11,7 @@
 
 ### 🔗 Socials:
 
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ([Nikhil's Instagram](https://www.instagram.com/[Nikhil's_Instagram_Username])) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ([Nikhil's LinkedIn](https://www.linkedin.com/in/nikhil-k-208896210/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/[Nikhil's_Instagram_Username]) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-k-208896210/)
 
 ---
 
@@ -42,5 +42,13 @@
 **My GitHub Contribution Streak:**
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nikhilsujesh&theme=dark&hide_border=true)](https://github.com/nikhilsujesh)
+
+---
+
+### 🤝 Let's Connect!
+
+* **LinkedIn:** [https://www.linkedin.com/in/nikhil-k-208896210/](https://www.linkedin.com/in/nikhil-k-208896210/)
+* **Email:** [Nikhil's Professional Email Address]
+* **Personal Website/Portfolio:** [Nikhil's Personal Website URL (if he has one, otherwise remove this line)]
 
 ---
