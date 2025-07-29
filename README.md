@@ -26,15 +26,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 ---
-
-### 🎓 Education & Certifications
-
-* **Bachelor of Technology (BTech) in Computer Engineering** - College of Engineering, Thalassery (Aug 2023 - Apr 2026)
-* **Computer Engineering, Computer Software Engineering** - Government Polytechnic College, Periya (2020 - 2023)
-* **Building a Face Recognition Application using Python** - HCL GUVI (2026)
-    * ---
 
 ### 📊 My GitHub Stats & Activity
 
