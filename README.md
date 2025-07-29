@@ -9,6 +9,12 @@
 
 ---
 
+### 🔗 Socials:
+
+[Instagram](https://www.instagram.com/_nikhil__sujesh__) [LinkedIn](https://www.linkedin.com/in/nikhil-k-208896210/)
+
+---
+
 ### 🛠️ My Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,20 +34,21 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ---
 
-### 📊 My GitHub Stats & Activity
+### 📊 GitHub Activity & Stats
 
-[![Nikhil K's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilsujesh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/anurag-rajori/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsujesh&layout=compact&theme=radical&hide_border=true)](https://github.com/anurag-rajori/github-readme-stats)
+[![Nikhil K's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilsujesh&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)](https://github.com/nikhilsujesh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsujesh&layout=compact&theme=dark&hide_border=true)](https://github.com/nikhilsujesh)
 
 **My GitHub Contribution Streak:**
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nikhilsujesh&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nikhilsujesh&theme=dark&hide_border=true)](https://github.com/nikhilsujesh)
 
 ---
 
 ### 🤝 Let's Connect!
 
 * **LinkedIn:** [https://www.linkedin.com/in/nikhil-k-208896210/](https://www.linkedin.com/in/nikhil-k-208896210/)
-* **Email:** nikhilsujesh21@gmail.com
+* **Email:** [Nikhil's Professional Email Address]
+* **Personal Website/Portfolio:** [Nikhil's Personal Website URL (if he has one, otherwise remove this line)]
 
 ---
