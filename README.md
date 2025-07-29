@@ -45,10 +45,3 @@
 
 ---
 
-### 🤝 Let's Connect!
-
-* **LinkedIn:** [https://www.linkedin.com/in/nikhil-k-208896210/](https://www.linkedin.com/in/nikhil-k-208896210/)
-* **Email:** [Nikhil's Professional Email Address]
-* **Personal Website/Portfolio:** [Nikhil's Personal Website URL (if he has one, otherwise remove this line)]
-
----
